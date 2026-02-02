@@ -14,3 +14,11 @@ A high-stakes 2D collection game built with **C++** and **Raylib**.
 ## 🛠️ Built With
 * [Raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming.
 * C++ - The core logic of the game.
+
+## 🛠️ Setup & Compilation
+To run this game locally, you need [Raylib](https://www.raylib.com/) installed.
+
+### Using Notepad++ or VS Code:
+1. Open `main.cpp`.
+2. Press `F6` (if using the standard Raylib Notepad++ setup).
+3. Ensure `background.png` is in the same folder as the `.exe`.
