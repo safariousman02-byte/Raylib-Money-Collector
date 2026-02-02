@@ -1,23 +1,16 @@
-git # Pong Game in C++ using Raylib library
+# 💰 Money Collector
+A high-stakes 2D collection game built with **C++** and **Raylib**.
 
-Pong Game in C++ using Raylib library.
+## 🚀 Features
+* **Custom Loading Screen:** Smooth progress bar with a "P" skip key.
+* **Interactive Menu:** Transparent "Glass-style" buttons for Start, Upgrades, and Exit.
+* **Responsive Design:** High-quality background textures that fit any screen.
 
-It works with raylib version 5.0.
-Tested on both Windows 10 and Windows 11.
+## 🎮 How to Play
+1. **Wait** for the loading bar to finish (or press **P** to skip).
+2. **Click** Start Game to begin the adventure.
+3. **Collect** coins to buy upgrades!
 
-# Video Tutorial
-
-<p align="center">
-  <img src="preview.jpg" alt="" width="820">
-</p>
-
-<p align="center">
-🎥 <a href="https://youtu.be/VLJlTaFvHo4">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+## 🛠️ Built With
+* [Raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming.
+* C++ - The core logic of the game.
