@@ -22,3 +22,6 @@ To run this game locally, you need [Raylib](https://www.raylib.com/) installed.
 1. Open `main.cpp`.
 2. Press `F6` (if using the standard Raylib Notepad++ setup).
 3. Ensure `background.png` is in the same folder as the `.exe`.
+
+# 💰 Money Collector
+![Game Preview](thumbnail.png)
